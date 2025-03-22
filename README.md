@@ -1,8 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=458588&center=true&vCenter=true&width=600&lines=uStOoPiAs+GitHub+Profile!;Not+much+to+see+here.;Thanks+for+stopping+bye+bye.;" alt="Typing SVG" />
+</p>
+
+## **ustoopia/ustoopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on this GitHub profile page. 😄 ##
 
 <!--
-**ustoopia/ustoopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

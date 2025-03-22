@@ -7,8 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ustoopia&layout=compact&theme=gruvbox" height="180em" />
 </p>
 
-<p align="center"><img src="https://i.imgur.com/fa9odX2.png"></p>
-
 <!--
 Here are some ideas to get you started:
 

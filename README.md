@@ -1,5 +1,5 @@
 <p align="center">
-<img src=""> 
+<a href="https://www.ustoopia.nl" target="_blank"><img src="assets/githeader.png"></a>
 </p>
 
 <p align="center">
@@ -10,13 +10,12 @@
   <img align="center" alt="Snake" src="assets/snake-dark.svg">
 </div>
 
+---
+
 <p align="center">
 <em>“Have the courage to follow your heart and intuition. They somehow know what you truly want to become.”</em> -- <strong>Steve Jobs.</strong>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=458588&center=true&vCenter=true&width=600&lines=Houdoe+en+Bedankt!;Thanks+for+stopping+bye+bye.;" alt="Typing SVG" />
-</p>
 <!--
 Here are some ideas to get you started:
 
